@@ -1,2 +1,2 @@
-# ci-cd-cloudrun
-Example fully CI/CD Cloud Run
+# CI/CD Pipeline in Cloud Run
+Example fully CI/CD pipeline in Cloud Run
